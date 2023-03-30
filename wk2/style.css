@@ -1,11 +1,15 @@
-#something {
-    color: red;
-}
-
-p.something {
-    color: blue;
-}
-
-#good {
-    color: yellow;
-}
+* {
+    color:aqua;
+   }
+   
+   #something {
+       color: red;
+   }
+   
+   p.something {
+       color: blue;
+   }
+   
+   #good {
+       color: yellow;
+   }
